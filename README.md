@@ -1,3 +1,3 @@
 ### Data Engineering Course from Datacamp
-It is the study material of the course
+###### This repo contains all the presentations of lectures taught in the course.
 
